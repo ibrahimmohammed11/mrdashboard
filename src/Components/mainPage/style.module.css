@@ -1,0 +1,58 @@
+.logoStyle{
+    width: 120px;
+    height: 70px;
+    margin-top: 20px;
+}
+
+.salesAnaLy{
+    background-color: white;
+    border-radius: 12px;
+    padding: 15px;
+}
+
+
+.orangeSt{
+    color: orange;
+    font-size: 24px;
+}
+
+.chartCont{
+    margin-top: 20px;
+    width: 50vw;
+    height: 50vh;
+}
+.greenColor{
+    color: green;
+    font-size: 16px;
+}
+.redColor{
+    color: orangered;
+    font-size: 16px;
+}
+
+.headChart{
+    font-family: HelveticaNeue;
+    font-size: 16px;
+    font-weight:bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: gray;
+}
+.numChart{
+    font-size: 16px;
+
+}
+.smHeader{
+    color: orangered;
+    font-size: 14px;
+}
+
+.linkStyle{
+    color: orangered;
+}
+.linkStyle:hover,.linkStyle:focus{
+    color: orangered;
+}

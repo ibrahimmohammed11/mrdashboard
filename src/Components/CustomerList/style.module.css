@@ -1,0 +1,113 @@
+.CardStyle{
+    background-color: white;
+    padding: 15px;
+    border-radius: 15px;
+}
+.orangeColor{
+    color: orange;
+    font-size: 25px;
+    font-family: "Neusa Next Std";
+}
+.catStyle{
+    background-color: #efefef;
+    border-radius: 5px;
+    color: rgba(148, 149, 161, 0.78);
+    padding: 4px 5px;
+}
+
+
+.orangeSt{
+    color: orange;
+    font-size: 18px;
+}
+
+.smImg{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.nameDesc{
+    color: grey;
+    font-size: 10px;
+    width: 150px;
+    
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: #808080;
+    font-size: 12px;
+}
+.nameSty{
+    color: orange;
+    font-weight: bold;
+    width: 100px;
+    
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.emailSty{
+    color: orange;
+    font-weight: bold;
+    width: 190px;
+    
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.addProduct{
+    width: 163.5px;
+    text-align: center;
+    margin: 15px 1px;
+    padding: 10px 1px;
+    background-color: rgba(255, 229, 199, 0.83);
+    color: orangered;
+    border-radius: 7px;
+}
+.addProduct:focus,.addProduct:hover{
+    color: orangered;
+    box-shadow: none;
+}
+
+.prodImg{
+    width: 80px;
+    height: 80px;
+    border-radius: 7px;
+    
+}
+
+.invite{
+    
+    text-align: center;
+    padding: 8px;
+    background-color: #f1cc84;
+    color: black;
+    border-radius: 7px;
+    border: none;
+    font-size: 10px;
+}
+.invite:focus,.invite:hover{
+    color: black;
+    box-shadow: none;
+}
+.txtSt1{
+    color: gray;
+    font-size: 13px;
+    font-weight: bold;
+    width: 170px;
+    
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    
+}
+.txtSt2{
+    color: gray;
+    font-size: 10px;
+}
+.dateTxt{
+    color: gray;
+    font-size: 14px;
+    font-weight: bold;
+}

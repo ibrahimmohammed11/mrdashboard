@@ -1,0 +1,196 @@
+.logoStyle{
+    width: 53px;
+    height: 53px;
+    background-color: #ffe4b5;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.logoStyle1{
+    width: 50px;
+    height: 50px;
+    background-color: #ffe4b5;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.divStyle{
+    width: 53px;
+    height: 53px;
+    background-color: #a3d7da;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.divStyle1{
+    width: 50px;
+    height: 50px;
+    background-color: #a3d7da;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.headColor{
+    color:  rgba(148, 149, 161, 0.78);
+    font-size: 25px;
+    font-weight: bolder;
+}
+.headColor1{
+    color:  rgba(148, 149, 161, 0.78);
+    font-size: 20px;
+}
+.salesAnaLy{
+    background-color: white;
+    border-radius: 12px;
+    padding: 15px;
+}
+.smallChart{
+    background-color: white;
+    border-radius: 7px;
+    padding: 30px 10px;
+}
+
+.orangeSt{
+    color: orange;
+    font-size: 24px;
+}
+
+.chartCont{
+    margin-top: 20px;
+    width: 50vw;
+    height: 57vh;
+}
+.greenColor{
+    color: green;
+    font-size: 16px;
+}
+.redColor{
+    color: orangered;
+    font-size: 16px;
+}
+
+.headChart{
+    font-family: HelveticaNeue;
+    font-size: 16px;
+    font-weight:bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: gray;
+}
+.numChart{
+    font-size: 16px;
+
+}
+.smHeader{
+    color: rgba(148, 149, 161, 0.78);
+    font-size: 14px;
+}
+
+.linkStyle{
+    color: rgba(148, 149, 161, 0.78);
+}
+.linkStyle:hover,.linkStyle:focus{
+    color: rgba(148, 149, 161, 0.78);
+}
+
+.arrowTop{
+    color: #a1cd9a;
+    font-size: 40px;
+}
+
+.totalStyle{
+    color: #8b8c94;
+    font-family: NeusaNextStd;
+    font-size: 22px;
+    font-weight: 500;
+}
+.numSt{
+    color: #8b8c94;
+    font-size: 30px;
+    font-weight: 500;
+}
+.underChart{
+    color: #a1cd9a;
+    font-size: 10px;
+}
+
+.SpendsToday1{
+    background: #a9aabc;
+    border-radius: 7px 0 0 7px;
+    padding: 40px 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.SpendsToday2{
+    background: #9495a1;
+    border-radius: 0 7px 7px 0;
+    padding: 40px 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.Spends{
+    color: white;
+    
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.moneySt{
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.increseStyle1{
+    background-color: #b3b6c5;
+    color: #f0f0f0;
+    font-size: 20px;
+    padding: 15px;
+    border-radius: 5px;
+    border-top: 3px solid white;
+    border-bottom: 3px solid white;
+    border-right: 3px solid white;
+    text-align: center;
+}
+.increseStyle2{
+    background-color: #8b8c94;
+    color: #f0f0f0;
+    font-size: 20px;
+    padding: 15px;
+    border-radius: 5px;
+    border-top: 3px solid white;
+    border-bottom: 3px solid white;
+    border-right: 3px solid white;
+    text-align: center;
+}
+
+.smImg{
+    width: 70px;
+    height: 70px;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.nameSty{
+    color: rgba(120, 121, 120,.5);
+    font-weight: bold;
+    width: 300px;
+    margin-bottom: 5px;
+}
+.firstProg1{
+    background-color: #a3d7da;
+    width: 75%;
+}
+.firstProg2{
+    background-color: #ffe4b5;
+    width: 60%;
+}
+.firstProg3{
+    background-color: #ffe4b5;
+    width: 70%;
+}
+
+.textColor{
+    color: rgba(120, 121, 120,.5);
+    font-size: 12px;
+}

@@ -1,0 +1,60 @@
+.orderNumber{
+    color: gray;
+    font-size: 30px;
+}
+.numberStyle{
+    color: orangered;
+    font-size: 30px;
+}
+.addProduct{
+    
+    text-align: center;
+    padding: 10px 10px;
+    background-color: #a8a8a8;
+    color: white;
+    border-radius: 7px;
+    border: none;
+}
+.addProduct:focus,.addProduct:hover{
+    color: white;
+    box-shadow: none;
+}
+
+.pageStyle{
+    background-color: white;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.smImg{
+    width: 80px;
+    height: 80px;
+    border-radius: 15px;
+    margin-right: 10px;
+}
+
+.nameDesc{
+    color: grey;
+    color: #808080;
+    font-size: 12px;
+}
+.viewDe{
+    
+    text-align: center;
+    padding: 10px 10px;
+    background-color: #f1cc84;
+    color: gray;
+    border-radius: 7px;
+    border: none;
+}
+.viewDe:focus,.viewDe:hover{
+    color: gray;
+    box-shadow: none;
+}
+.headStyle{
+    font-size: 20px;
+    color: gray;
+}
+.textColor{
+    color: gray;
+}

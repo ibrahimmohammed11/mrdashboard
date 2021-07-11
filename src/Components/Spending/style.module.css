@@ -1,0 +1,17 @@
+.CardStyle{
+    background-color: white;
+    padding: 15px;
+    border-radius: 15px;
+}
+.orangeColor{
+    color: orange;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+
+.orangeSt{
+    color: orange;
+    font-size: 18px;
+    cursor: pointer;
+}

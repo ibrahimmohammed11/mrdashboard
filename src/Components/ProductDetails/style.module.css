@@ -1,0 +1,38 @@
+
+
+.grid_container{
+    display: grid;
+    justify-content: space-around;
+    align-items: stretch;
+    grid-template-columns: repeat(1, 50vw);
+    grid-auto-rows: minmax(min-content, max-content);
+    grid-row-gap: 15px;
+  }
+.orangeColor{
+    color: orange;
+    font-size: 25px;
+    font-family: "Neusa Next Std";
+}
+@media only screen and (min-width: 700px) {
+.grid_container{
+    grid-template-columns: repeat(2, 30vw);
+}
+}
+
+@media only screen and (min-width: 1000px) {
+.grid_container{
+    grid-template-columns: repeat(3, 25vw);
+}
+}
+
+@media only screen and (min-width: 1260px) {
+.grid_container{
+    grid-template-columns: repeat(4, 17vw);
+}
+}
+
+@media only screen and (min-width: 1350px) {
+.grid_container{
+    grid-template-columns: repeat(5, 15vw);
+}
+}

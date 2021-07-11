@@ -1,0 +1,86 @@
+@import 'antd/dist/antd.css';
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+#components-layout-demo-side .logo {
+  height: 32px;
+  margin: 16px;
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.site-layout .site-layout-background {
+  background: #f5f1f3;
+}
+
+.right-sidebar
+{
+  position: fixed;
+  height: 85vh;
+  width: 20vw;
+  overflow-y: auto;
+  overflow-x: hidden;
+  right: -100%;
+  top: 75px;
+  background-color: #fff;
+  border-top-left-radius: 50px;
+  border-bottom-left-radius: 30px;
+  padding: 30px 5px;
+  z-index: 100;
+  transition: all 500ms;
+}
+.right-sidebar::-webkit-scrollbar {
+  width:3px;
+}
+.right-sidebar::-webkit-scrollbar-thumb {
+  background: orange; 
+  border-radius: 10px;
+  transition: all 1s;
+}
+
+.right-sidebar::-webkit-scrollbar-thumb:hover {
+  background: orange;
+}
+.open-right-sidebar
+{
+  right: 0;
+}
+.site-calendar-demo-card {
+  width: 300px;
+  border: 1px solid #f0f0f0;
+  border-radius: 2px;
+}

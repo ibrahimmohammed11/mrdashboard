@@ -1,0 +1,25 @@
+.revStyle{
+    background-color: #F1EFEB;
+    border-radius: 12px;
+    padding: 10px;
+}
+.revCom{
+    display: flex;
+    justify-content: space-between;
+    grid-column-gap: 30px;
+}
+.bySty{
+    color: rgba(128, 128, 128,.8);
+}
+.rev{
+    color: rgba(128, 128, 128,.8);
+    font-size: 10px;
+}
+.userName{
+    color: orangered;
+    font-weight: bold;
+}
+.timeAgo{
+    color: rgba(128, 128, 128,.5);
+    font-size: 10px;
+}

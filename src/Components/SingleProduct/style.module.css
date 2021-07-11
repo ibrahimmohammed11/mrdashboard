@@ -1,0 +1,119 @@
+.CardStyle{
+    background-color: white;
+    padding: 15px;
+    border-radius: 15px;
+}
+.bigImg{
+    width: 100%;
+    height: 300px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+
+.smImg{
+    width: 100%;
+    height: 150px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+.reviews{
+    color: gray;
+    font-size: 10px;
+}
+.classify{
+    color: gray;
+    font-size: 12px;
+}
+.nameStyle{
+    font-size: 27px;
+    display: block;
+}
+.price{
+    color: orangered;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.desc{
+    color: gray;
+    font-size: 14px;
+}
+.chooseColor{
+    color: orange;
+}
+.colorList
+{
+  display: flex;
+  align-items: center;
+}
+
+.Color1{
+    background-color:#333333;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 3px solid #ccc;
+    list-style: none;
+    cursor: pointer;
+    margin-right: 9px;
+}
+.Color2{
+    background-color:#3399CC;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 3px solid #ccc;
+    list-style: none;
+    cursor: pointer;
+    margin-right: 9px;
+}
+.Color3{
+    background-color:#E08087;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 3px solid #ccc;
+    list-style: none;
+    cursor: pointer;
+    margin-right: 9px;
+}
+.Color4{
+    background-color:#CC3332;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 3px solid #ccc;
+    list-style: none;
+    cursor: pointer;
+    margin-right: 9px;
+}
+.btnLeft{
+    color: gray;
+    font-size: 25px;
+    border: 1px solid gray;
+    padding: 1px 10px;
+    background: none;
+    border-radius: 5px 0 0 5px;
+}
+.btnCenter{
+    color: rgba(128, 128, 128,.7);
+    font-size: 25px;
+    padding: 1px 10px;
+    border: 1px solid gray;
+    background: none;
+}
+
+.btnRight{
+    color: gray;
+    font-size: 25px;
+    border: 1px solid gray;
+    padding: 1px 10px;
+    background: none;
+    border-radius: 0 5px 5px 0;
+}
+
+.tabsStyle{
+    border: 1px solid gray;
+    margin-top: 10px;
+    border-radius: 12px;
+    padding: 15px;
+}

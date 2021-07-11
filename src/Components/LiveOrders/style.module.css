@@ -1,0 +1,90 @@
+.CardStyle{
+    background-color: white;
+    padding: 15px;
+    border-radius: 15px;
+}
+.orangeColor{
+    color: orange;
+    font-size: 25px;
+    font-family: "Neusa Next Std";
+}
+
+
+
+.orangeSt{
+    color: orange;
+    font-size: 18px;
+}
+
+.smImg{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.nameSty{
+    color: orange;
+    font-weight: bold;
+    width: 100px;
+    
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+
+.prodImg{
+    width: 80px;
+    height: 80px;
+    border-radius: 7px;
+    
+}
+.iconStyle1{
+    background-color: #f3fdf8;
+    color: #87ceab;
+    font-size: 40px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.iconStyle2{
+    background-color: #f3f7ff;
+    color: #a9bdf4;
+    font-size: 40px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.iconStyle3{
+    background-color: #fff9f4;
+    color: #fcb479;
+    font-size: 40px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.iconStyle4{
+    background-color: #ffc3b2;
+    color: #f83600;
+    font-size: 35px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.totalEarn{
+    font-family: HelveticaNeue;
+    font-size: 10px;
+    font-weight: 500;
+    color: #a8a8a8;
+}
+.totalMoney{
+    font-family: HelveticaNeue;
+    font-size: 30px;
+    font-weight: bolder;
+    color: #797979;
+}
+.rowMarg{
+    margin-bottom: 30px;
+}
+@media only screen and (min-width: 1200px) {
+    .rowMarg{
+        margin-bottom: 2px;
+    }
+}

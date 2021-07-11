@@ -1,0 +1,103 @@
+.orangeColor{
+    color: orange;
+    font-size: 25px;
+    cursor: pointer;
+}
+.orangerColor{
+    color: orangered;
+    cursor: pointer;
+    font-weight: bold;
+}
+.btnStyle1{
+    background-color: transparent;
+    border: 1px solid orange;
+    color: orange;
+    border-radius: 10px;
+}
+.btnStyle1:hover,.btnStyle1:focus{
+    color: orange;
+}
+.btnStyle2{
+    background:linear-gradient(to right,#fe8900, #f83a00);
+    color: white;
+    border-radius: 10px;
+}
+.btnStyle2:hover,.btnStyle1:focus{
+    color: white;
+}
+
+.CardStyle{
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+}
+.text{
+    border: none;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+}
+
+.text:focus{
+    background-color: #f0f0f0;
+    box-shadow: none;
+}
+.grayColor{
+    color: rgba(128, 128, 128,.5);
+}
+.numberBtn{
+    background-color: #ffedd9;
+    font-size: 8px;
+    color: #ffcd95;
+}
+.Prog{
+    background-color: #e64c26;
+    width: 75%;
+}
+
+.startDate{
+    background-color: orange;
+    color: white;
+    border-radius: 0 10px 10px 0  !important;
+    text-align: center;
+    
+    cursor: pointer;
+}
+
+.addImg{
+    border: 2px dashed rgba(128, 128, 128,.5);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+}
+
+.addCircle{
+    color: rgba(128, 128, 128,.5);
+}
+.addImgFont{
+    color: gray;
+    font-size: 16px;
+}
+
+.addImg1{
+    border: 1px dashed rgba(128, 128, 128,.5);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 150px;
+}
+
+.addImgFont1{
+    color: gray;
+    font-size: 10px;
+}
+.dropMen{
+    background-color: #f0f0f0;
+    color: black;
+    border-radius: 0 10px 10px 0  !important;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+}

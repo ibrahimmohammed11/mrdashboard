@@ -1,0 +1,33 @@
+.rating .icon {
+    color: orange;
+    font-size: 0.6em;
+}
+.rating{
+  background: transparent !important;
+  width: auto !important;
+  color: orange !important;
+}
+
+.cardBrb{
+    border-radius: 10px;
+    border: unset;
+}
+.title{
+    color: black;
+    font-size: 12px;
+    margin: 0;
+    min-height: 58px;
+    
+}
+
+.price {
+    color: orangered;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.imgStyle{
+    border-radius: 10px 10px 0 0;
+    height: 200px;
+    overflow: hidden;
+}

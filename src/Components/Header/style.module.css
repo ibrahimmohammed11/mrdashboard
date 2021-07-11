@@ -1,0 +1,29 @@
+.text{
+    
+    border: 2px solid orange;
+    background-color: #F1EFEB;
+    border-radius: 10px;
+    
+}
+
+.text:focus,.text:hover{
+    border: 2px solid orange !important;
+    background-color: #F1EFEB;
+    outline: none;
+    box-shadow: none;
+}
+
+.searchIcon{
+    background-color: orange !important;
+    border: none;
+    color: white;
+    border-radius:  0 10px 10px 0;
+    cursor: pointer;
+}
+
+.imgStyle{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 1px solid orange;
+}

@@ -1,0 +1,59 @@
+.CardStyle{
+    background-color: white;
+    padding: 15px;
+    border-radius: 15px;
+}
+.orangeColor{
+    color: orange;
+    font-size: 25px;
+    cursor: pointer;
+}
+.orangeSt{
+    color: orange;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.btnStyle{
+    background-color: white;
+}
+.start{
+    color: #4fae40;
+}
+.stop{
+    color:#f73839;
+}
+.pauseBtnStyle{
+    color: gray;
+    border-radius: 50%;
+}
+.pauseBtnStyle:hover{
+    color: gray;
+}
+.playBtnStyle{
+    color: #4fae40;
+    border-radius: 50%;
+}
+.playBtnStyle:hover{
+    color: #4fae40;
+}
+.stopBtnStyle{
+    color: #f73839;
+    border-radius: 50%;
+}
+.stopBtnStyle:hover{
+    color: #f73839;
+}
+.onGoing{
+    background-color: #ecf8ec;
+    color: #50b242;
+    padding: 5px 30px;
+}
+.onGoing:hover{
+    background-color: #ecf8ec;
+    color: #50b242;
+    padding: 5px 30px;
+}
+.orColor{
+    color: orangered;
+}

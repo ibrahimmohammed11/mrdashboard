@@ -1,0 +1,106 @@
+.CardStyle{
+    background-color: white;
+    padding: 15px;
+    border-radius: 15px;
+}
+.orangeColor{
+    color: orange;
+    font-size: 25px;
+    font-family: "Neusa Next Std";
+}
+.catStyle{
+    background-color: #efefef;
+    border-radius: 5px;
+    color: rgba(148, 149, 161, 0.78);
+    padding: 4px 5px;
+}
+
+.colorList
+{
+  display: flex;
+  align-items: center;
+}
+
+.Color1{
+    background-color:#333333;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    
+    list-style: none;
+    cursor: pointer;
+    margin-right: 9px;
+}
+.Color2{
+    background-color:#cca4a0;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    
+    list-style: none;
+    cursor: pointer;
+    margin-right: 9px;
+}
+.Color3{
+    background-color:#E08087;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    
+    list-style: none;
+    cursor: pointer;
+    margin-right: 9px;
+}
+
+.rating .icon {
+    color: orange;
+    font-size: 0.6em;
+}
+.rating{
+  background: transparent !important;
+  width: auto !important;
+  color: orange !important;
+}
+
+.orangeSt{
+    color: orange;
+    font-size: 18px;
+}
+
+.smImg{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.nameDesc{
+    color: grey;
+    font-size: 10px;
+    width: 150px;
+    
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: #808080;
+    font-size: 12px;
+}
+.addProduct{
+    width: 163.5px;
+    text-align: center;
+    margin: 15px 1px;
+    padding: 10px 1px;
+    background-color: rgba(255, 229, 199, 0.83);
+    color: orangered;
+    border-radius: 7px;
+}
+.addProduct:focus,.addProduct:hover{
+    color: orangered;
+    box-shadow: none;
+}
+
+.prodImg{
+    width: 80px;
+    height: 80px;
+    border-radius: 7px;
+    
+}
